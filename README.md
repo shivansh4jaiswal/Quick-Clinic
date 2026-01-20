@@ -181,7 +181,7 @@ quick-clinic/
 
 ## 📝 License
 
-This project is created by **Karan Aggarwal** & **Harsh Mishra**.
+This project is maintained by **Shivansh Jaiswal**.
 
 ## 🤝 Contributing
 
@@ -190,9 +190,8 @@ Contributions, issues, and feature requests are welcome!
 ## 📧 Contact
 
 For questions or support, reach out to:
-- **Email**: aggarwalkaran241@gmail.com
-- **GitHub**: [@karanagg166](https://github.com/karanagg166)
+- **GitHub**: [@shivansh4jaiswal](https://github.com/shivansh4jaiswal)
 
 ---
 
-Made with ❤️ by Karan Aggarwal & Harsh Mishra
+Made with ❤️ by Shivansh Jaiswal

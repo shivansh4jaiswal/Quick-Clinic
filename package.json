@@ -1,6 +1,11 @@
 {
   "name": "quick-clinic",
   "version": "0.1.0",
+  "author": "Shivansh Jaiswal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivansh4jaiswal/Quick-Clinic.git"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
